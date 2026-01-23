@@ -6,7 +6,7 @@
 
 **HeroSMS**：稳定高效的全球短信验证服务，热门应用注册首选。
 
-HeroSMS (https://ygjc.cc/sms) 是一家专注于提供高成功率服务的接码平台。它拥有覆盖全球各地的丰富号码资源，能够轻松解决 WhatsApp、Telegram、OpenAI (ChatGPT)、Google 等各类主流应用的短信验证难题。该平台界面简洁直观，接码响应速度快，且号码质量稳定，非常适合需要快速完成账号验证的用户使用。
+HeroSMS [https://hero-sms.com](https://ygjc.cc/sms) 是一家专注于提供高成功率服务的接码平台。它拥有覆盖全球各地的丰富号码资源，能够轻松解决 WhatsApp、Telegram、OpenAI (ChatGPT)、Google 等各类主流应用的短信验证难题。该平台界面简洁直观，接码响应速度快，且号码质量稳定，非常适合需要快速完成账号验证的用户使用。
 
 ![HeroSMS](image/HeroSMS.webp)
 
